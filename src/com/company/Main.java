@@ -12,6 +12,8 @@ public class Main {
         HashMap<String,String> userCred = new HashMap<>();
         userCred.put("111","111");
         userCred.put("222","222");
+        userCred.put("333","333");
+        userCred.put("444","444");
 
         Scanner scan = new Scanner(System.in);
 
